@@ -1,0 +1,29 @@
+_repo: Die-dreizehn-Bucher-der-deutschen-Seele_53856
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schäfer, Wilhelm
+    aliases:
+    - Schäfer-Dittmar, Wilhelm
+    - Schafer, Wilhelm
+    birthdate: 1868
+    deathdate: 1952
+    gutenberg_agent_id: '47579'
+    url: http://www.gutenberg.org/2009/agents/47579
+description: ''
+gutenberg_issued: '2017-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53856'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- Germany'
+- !lcsh 'Germany -- History'
+- !lcc 'DD'
+- !lcsh 'Germans'
+- GITenberg
+title: Die dreizehn Bücher der deutschen Seele
+url: http://www.gutenberg.org/ebooks/53856
